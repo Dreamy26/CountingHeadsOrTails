@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{5783E259-8B3C-4082-8C84-CB0ECF275A24}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CountingHeadsOrTails/Program.cs">
+    <Files>
+      <File FileName="CountingHeadsOrTails/Program.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.CountingHeadsOrTails FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
