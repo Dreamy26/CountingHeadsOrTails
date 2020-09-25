@@ -1,14 +1,30 @@
 ﻿<Properties StartupConfiguration="{5783E259-8B3C-4082-8C84-CB0ECF275A24}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="CountingHeadsOrTails/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="notes.md">
     <Files>
       <File FileName="CountingHeadsOrTails/Program.cs" Line="1" Column="1" />
+      <File FileName="notes.md" Line="33" Column="1" NotebookId="1" />
     </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CountingHeadsOrTails" expanded="True">
+            <Node name="Solution Items" expanded="True" />
+            <Node name="CountingHeadsOrTails" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.CountingHeadsOrTails FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.CountingHeadsOrTails PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
+    <BreakpointStore>
+      <Breakpoint file="/Users/dreamy/Projects/grandCircus_New/unit_1/deliverable2_CountingHeadsOrTails/CountingHeadsOrTails/Program.cs" relfile="CountingHeadsOrTails/Program.cs" line="11" column="1" />
+    </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
 </Properties>

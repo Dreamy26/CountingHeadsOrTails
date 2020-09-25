@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/dreamy/Projects/CountingHeadsOrTails/CountingHeadsOrTails/CountingHeadsOrTails.csproj",
+      "projectUniqueName": "/Users/dreamy/Projects/grandCircus_New/unit_1/deliverable2_CountingHeadsOrTails/CountingHeadsOrTails/CountingHeadsOrTails.csproj",
       "projectName": "CountingHeadsOrTails",
-      "projectPath": "/Users/dreamy/Projects/CountingHeadsOrTails/CountingHeadsOrTails/CountingHeadsOrTails.csproj",
+      "projectPath": "/Users/dreamy/Projects/grandCircus_New/unit_1/deliverable2_CountingHeadsOrTails/CountingHeadsOrTails/CountingHeadsOrTails.csproj",
       "packagesPath": "/Users/dreamy/.nuget/packages/",
-      "outputPath": "/Users/dreamy/Projects/CountingHeadsOrTails/CountingHeadsOrTails/obj/",
+      "outputPath": "/Users/dreamy/Projects/grandCircus_New/unit_1/deliverable2_CountingHeadsOrTails/CountingHeadsOrTails/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/dreamy/.config/NuGet/NuGet.Config"

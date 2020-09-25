@@ -10,3 +10,15 @@
 /Users/dreamy/Projects/CountingHeadsOrTails/CountingHeadsOrTails/obj/Debug/netcoreapp3.1/CountingHeadsOrTails.dll
 /Users/dreamy/Projects/CountingHeadsOrTails/CountingHeadsOrTails/obj/Debug/netcoreapp3.1/CountingHeadsOrTails.pdb
 /Users/dreamy/Projects/CountingHeadsOrTails/CountingHeadsOrTails/obj/Debug/netcoreapp3.1/CountingHeadsOrTails.genruntimeconfig.cache
+/Users/dreamy/Projects/grandCircus_New/unit_1/deliverable2_CountingHeadsOrTails/CountingHeadsOrTails/bin/Debug/netcoreapp3.1/CountingHeadsOrTails.deps.json
+/Users/dreamy/Projects/grandCircus_New/unit_1/deliverable2_CountingHeadsOrTails/CountingHeadsOrTails/bin/Debug/netcoreapp3.1/CountingHeadsOrTails.runtimeconfig.json
+/Users/dreamy/Projects/grandCircus_New/unit_1/deliverable2_CountingHeadsOrTails/CountingHeadsOrTails/bin/Debug/netcoreapp3.1/CountingHeadsOrTails.runtimeconfig.dev.json
+/Users/dreamy/Projects/grandCircus_New/unit_1/deliverable2_CountingHeadsOrTails/CountingHeadsOrTails/bin/Debug/netcoreapp3.1/CountingHeadsOrTails.dll
+/Users/dreamy/Projects/grandCircus_New/unit_1/deliverable2_CountingHeadsOrTails/CountingHeadsOrTails/bin/Debug/netcoreapp3.1/CountingHeadsOrTails.pdb
+/Users/dreamy/Projects/grandCircus_New/unit_1/deliverable2_CountingHeadsOrTails/CountingHeadsOrTails/obj/Debug/netcoreapp3.1/CountingHeadsOrTails.csprojAssemblyReference.cache
+/Users/dreamy/Projects/grandCircus_New/unit_1/deliverable2_CountingHeadsOrTails/CountingHeadsOrTails/obj/Debug/netcoreapp3.1/CountingHeadsOrTails.AssemblyInfoInputs.cache
+/Users/dreamy/Projects/grandCircus_New/unit_1/deliverable2_CountingHeadsOrTails/CountingHeadsOrTails/obj/Debug/netcoreapp3.1/CountingHeadsOrTails.AssemblyInfo.cs
+/Users/dreamy/Projects/grandCircus_New/unit_1/deliverable2_CountingHeadsOrTails/CountingHeadsOrTails/obj/Debug/netcoreapp3.1/CountingHeadsOrTails.csproj.CoreCompileInputs.cache
+/Users/dreamy/Projects/grandCircus_New/unit_1/deliverable2_CountingHeadsOrTails/CountingHeadsOrTails/obj/Debug/netcoreapp3.1/CountingHeadsOrTails.dll
+/Users/dreamy/Projects/grandCircus_New/unit_1/deliverable2_CountingHeadsOrTails/CountingHeadsOrTails/obj/Debug/netcoreapp3.1/CountingHeadsOrTails.pdb
+/Users/dreamy/Projects/grandCircus_New/unit_1/deliverable2_CountingHeadsOrTails/CountingHeadsOrTails/obj/Debug/netcoreapp3.1/CountingHeadsOrTails.genruntimeconfig.cache
